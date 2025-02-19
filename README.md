@@ -4,7 +4,7 @@ This program is designed to check the strength of your password and provide feed
 
 ## How to Run the Program
 
-1. **Install Python**: Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+1. **Install Python**: Ensure you have Python installed on your machine. 
 
 2. **Download the Program**: Clone or download the repository containing the password strength checker program.
 
@@ -21,7 +21,6 @@ This program is designed to check the strength of your password and provide feed
 ## Necessary Dependencies
 
 - Python 3.x
-- No additional libraries are required for this program.
 
 ## Limitations
 
